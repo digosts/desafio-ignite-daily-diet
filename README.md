@@ -1,12 +1,6 @@
 <img src="./assets/daily-diet.png" alt="Imagem do banner daily diet" />
 
 <p align="center">
-  <img alt="Repo size"  src="https://img.shields.io/github/repo-size/digosts/ignite-daily-diet?color=4f46e5&style=for-the-badge">
-  <img alt="GitHub top language"  src="https://img.shields.io/github/languages/top/digosts/ignite-daily-diet?color=4f46e5&style=for-the-badge"> <img alt="GitHub language count"  src="https://img.shields.io/github/languages/count/digosts/ignite-daily-diet?color=4f46e5&style=for-the-badge">
-  <img alt="Licença" src="https://img.shields.io/github/license/digosts/ignite-daily-diet?color=4f46e5&style=for-the-badge">
-</p>
-
-<p align="center">
   <a href="#dart-sobre">Sobre</a> &#xa0; | &#xa0;
   <a href="#rocket-tecnologias">Tecnologias</a> &#xa0; | &#xa0;
   <a href="#warning-pré-requisitos"> Pré requisitos</a> &#xa0; | &#xa0;
